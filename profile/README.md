@@ -28,7 +28,7 @@ Please refer to each repository for detailed instructions on setting up and runn
 
 - [face-detection-opencv-cpp](https://github.com/RIT-NTNU-Bachelor/face-detection-opencv-cpp)
 - [Unreal-facetracking-client](https://github.com/RIT-NTNU-Bachelor/Unreal-facetracking-client)
-- [OpenCV_Server](https://github.com/RIT-NTNU-Bachelorn/OpenCV_Server)
+- [OpenCV_Server](https://github.com/RIT-NTNU-Bachelor/OpenCV_Server)
 
 ## Contributors
 
