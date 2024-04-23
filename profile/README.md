@@ -26,7 +26,6 @@ Our project is in collaboration with the Rochester Institute of Technology (RIT)
 
 Please refer to each repository for detailed instructions on setting up and running the components of the system.
 
-- [face-detection-opencv-cpp](https://github.com/RIT-NTNU-Bachelor/face-detection-opencv-cpp)
 - [Unreal-facetracking-client](https://github.com/RIT-NTNU-Bachelor/Unreal-facetracking-client)
 - [OpenCV_Server](https://github.com/RIT-NTNU-Bachelor/OpenCV_Server)
 
