@@ -14,9 +14,9 @@ The challenge lies in identifying the user's face and eye direction accurately a
 
 Our system comprises several components, divided across the following main repositories:
 
-1. **face-detection-opencv-cpp** - This repository contains the code for detecting the user's face using OpenCV and C++. It's a critical component for tracking the user's position and orientation.
-2. **Unreal-facetracking-client** - Here, we integrate the face tracking data with Unreal Engine, enabling the real-time rendering of scenes based on the user's perspective.
-3. **OpenCV_Server** - This repository manages the communication between the face detection module and the Unreal Engine client, ensuring efficient data transfer and processing.
+1. **Unreal-facetracking-client** - This repositort integrate the face tracking data with Unreal Engine, enabling the real-time rendering of scenes based on the user's perspective.
+2. **OpenCV_Server** - This repository detects the face of the user and send the cordinates of the face over UDP. 
+3. **case-study** - This repository compares face detection algorithms. 
 
 ### Client
 
@@ -28,6 +28,7 @@ Please refer to each repository for detailed instructions on setting up and runn
 
 - [Unreal-facetracking-client](https://github.com/RIT-NTNU-Bachelor/Unreal-facetracking-client)
 - [OpenCV_Server](https://github.com/RIT-NTNU-Bachelor/OpenCV_Server)
+- [case-study](https://github.com/RIT-NTNU-Bachelor/case-study)
 
 ## Contributors
 
